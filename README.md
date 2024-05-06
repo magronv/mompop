@@ -3,3 +3,4 @@
 
 ## Contact
 [Jurij Volčič](https://jvolcic.neocities.org/): jv586@drexel.edu
+[Victor Magron](https://homepages.laas.fr/vmagron/): vmagron@laas.fr
